@@ -17,3 +17,5 @@
 ## Algorithm
 ## WebGl
 - [WebGL坐标系基础](https://juejin.im/post/6890795086054260750?utm_source=gold_browser_extension)
+## Philosophy
+- [hacker-laws](https://github.com/nusr/hacker-laws-zh)
