@@ -19,6 +19,7 @@
 ## Browser
 - [Life of a Pixel](https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/edit#slide=id.g60f92a5151_40_0)
 - [玩转前端二进制](https://mp.weixin.qq.com/s/QHi6BVM5Jt8XwZ_FKcRYsg)
+- [聊一聊 cookie](https://segmentfault.com/a/1190000004556040)
 ## Algorithm
 ## WebGl
 - [WebGL坐标系基础](https://juejin.im/post/6890795086054260750?utm_source=gold_browser_extension)
