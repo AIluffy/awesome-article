@@ -14,6 +14,7 @@
 ## NodeJS
 ## Vue
 ## React
+- [走进React Fiber 架构](https://juejin.cn/post/6844904019660537869)
 ## Bundle
 - [替代 webpack？带你了解 snowpack 原理，你还学得动么](https://zhuanlan.zhihu.com/p/149351900)
 - [What is module bundler and how does it work?](https://lihautan.com/what-is-module-bundler-and-how-does-it-work/#what-is-a-module-bundler)
@@ -22,6 +23,7 @@
 - [玩转前端二进制](https://mp.weixin.qq.com/s/QHi6BVM5Jt8XwZ_FKcRYsg)
 - [聊一聊 cookie](https://segmentfault.com/a/1190000004556040)
 ## Algorithm
+- [漫画：什么是动态规划？](https://juejin.cn/post/6844903520039075847)
 ## WebGl
 - [WebGL坐标系基础](https://juejin.im/post/6890795086054260750?utm_source=gold_browser_extension)
 ## Philosophy
